@@ -2,7 +2,7 @@
 
 use Illuminate\Support\ServiceProvider;
 
-use Motty\Presenter\LaravelPresenter;
+use Motty\Presenter\Laravel\LaravelPresenter;
 use Motty\Presenter\Contracts\PresenterInterface;
 
 class PresenterServiceProvider extends ServiceProvider

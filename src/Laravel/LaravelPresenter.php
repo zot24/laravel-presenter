@@ -1,4 +1,4 @@
-<?php namespace Motty\Presenter;
+<?php namespace Motty\Presenter\Laravel;
 
 use Motty\Presenter\Contracts\PresenterInterface;
 use Motty\Presenter\Contracts\PresentableInterface;
