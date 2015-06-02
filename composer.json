@@ -1,0 +1,24 @@
+{
+    "name": "motty/laravel-presenter",
+    "description": "Laravel 5 - Presenter Design Pattern Implementation",
+    "authors": [
+        {
+            "name": "Israel Sotomayor",
+            "email": "israel@motty.io",
+            "role" : "Developer"
+        }
+    ],
+    "keywords": ["pattern", "design pattern", "presenter", "laravel"],
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~5.0.4",
+        "illuminate/database": "~5.0.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Motty\\Presenter\\": "src/"
+        }
+    },
+    "minimum-stability": "alpha"
+}
