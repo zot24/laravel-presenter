@@ -1,6 +1,6 @@
 {
     "name": "motty/laravel-presenter",
-    "description": "Laravel 5 - Presenter Design Pattern Implementation",
+    "description": "Laravel - Presenter Design Pattern Implementation",
     "authors": [
         {
             "name": "Israel Sotomayor",
